@@ -36,6 +36,13 @@
 
 ###
 
+###
+
+<h2 align="left">Recently Played</h2>
+
+###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vaxztugt5y6mt1y3a09h1svoj&unique={true|1|on|yes})
+###
 
 <!--
 **SDragonex/SDragonex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
