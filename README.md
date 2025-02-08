@@ -1,14 +1,14 @@
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Dany and I'm a student, from Czechia</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
-###
+<!--###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>-->
 
 ###
 
