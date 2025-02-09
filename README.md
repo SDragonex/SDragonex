@@ -1,18 +1,18 @@
 <br clear="both">
 
-<h1 align="center">Welcome to my profile</h1>
+<h1 align="center">🌟 Welcome to My Profile</h1>
 
 ###
 
 <br clear="both">
 
-<p align="center">My name is Dany and I am a student on High School of Technology in Czech Republic</p>
+<h3 align="center">👋 Hi, I'm Dany!<br>I'm a student at a High School of Technology in the Czech Republic with a passion for tech, music, and strength training.<br><br>💻 Tech & AI Enthusiast – Exploring artificial intelligence, software development, and web technologies.<br>🎸 Guitarist – I play a 7-string electric guitar, focusing on heavy riffs and rhythm sections.<br>🏋️‍♂️ Powerlifting – Passionate about strength training and always striving for progress.<br>🌍 Languages – Native Czech speaker, ScioDat B2 certified in English, with basic knowledge of Russian.<br>🚀 Competitions – Participated in Tour de App 2025, Best in English 2024.<br>📚 Lifelong Learner – Constantly improving my skills and working on new challenges.</h3>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">I code with</h2>
+<h2 align="center">🛠️ Technologies I Work With</h2>
 
 ###
 
@@ -34,15 +34,15 @@
 
 <br clear="both">
 
-<h2 align="center">Songs I recently listened to</h2>
+<h2 align="center">🎵 Recently Played on Spotify</h2>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Dragonex">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Dragonex&count=6&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/vaxztugt5y6mt1y3a09h1svoj">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vaxztugt5y6mt1y3a09h1svoj&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<h2 align="center">My social media</h2>
+<h2 align="center">📫 Connect with Me: Feel free to reach out!</h2>
 
 ###
 
@@ -67,10 +67,16 @@
   <a href="https://paypal.me/TheDragonex" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="100" height="60" alt="paypal logo"  />
   </a>
-  <a href="77692779+SDragonex@users.noreply.github.com." target="_blank">
+  <a href="mailto:77692779+SDragonex@users.noreply.github.com." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="60" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 ###
 
@@ -84,7 +90,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/"  />
+  <img height="600" src="https://s13.gifyu.com/images/b2U4g.gif"  />
 </div>
 
 ###
