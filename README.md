@@ -12,6 +12,14 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SDragonex.SDragonex&"  />
+</div>
+
+###
+
+<br clear="both">
+
 <h2 align="center">🛠️ Technologies I Work With</h2>
 
 ###
@@ -45,14 +53,14 @@
   <a href="https://x.com/SDragonex" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="110" height="60" alt="twitter logo"  />
   </a>
+  <a href="mailto:77692779+SDragonex@users.noreply.github.com." target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="110" height="60" alt="gmail logo"  />
+  </a>
   <a href="https://discordapp.com/users/613361320426733598" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="110" height="60" alt="discord logo"  />
   </a>
   <a href="https://paypal.me/TheDragonex" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="110" height="60" alt="paypal logo"  />
-  </a>
-  <a href="mailto:77692779+SDragonex@users.noreply.github.com." target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="110" height="60" alt="gmail logo"  />
   </a>
 </div>
 
@@ -87,10 +95,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="500" src="https://s13.gifyu.com/images/b2U4g.gif"  />
+  <img height="400" src="https://s13.gifyu.com/images/b2U4g.gif"  />
 </div>
 
 ###
