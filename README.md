@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  <img src="[https://gh-readme-profile.vercel.app/api?username=SDragonex&theme=transparent&hide=forks,prs,prs_merged&disabled_animations=true&hide_stroke=true&hide_border=true](https://gh-readme-profile.vercel.app/api?username=SDragonex&theme=transparent&hide=forks,prs,prs_merged&show=issues_closed)" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=SDragonex&theme=transparent&hide=forks,prs,prs_merged&show=issues_closed" />
 </div>
 
 
