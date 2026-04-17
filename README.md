@@ -81,20 +81,6 @@
 
 <br clear="both">
 
-<h2 align="center">🎵 Recently Played on Spotify</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/vaxztugt5y6mt1y3a09h1svoj">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vaxztugt5y6mt1y3a09h1svoj&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img height="400" src="https://s13.gifyu.com/images/b2U4g.gif"  />
 </div>
