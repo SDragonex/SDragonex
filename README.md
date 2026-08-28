@@ -73,10 +73,12 @@
 ###
 
 <div align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=SDragonex&theme=dark&hide=forks,prs,prs_merged&show=issues_closed" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=SDragonex&theme=dark&hide=forks,prs,prs_merged&show=issues_closed&hide_border=true" />
   <br>
-  <img src="https://github-stats-extended.vercel.app/api?username=SDragonex&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SDragonex&layout=compact&langs_count=6&theme=dark"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=SDragonex&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SDragonex&layout=compact&langs_count=6&theme=dark&hide_border=true"  />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=SDragonex&theme=dark&hide_border=true&timezone=GMT&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 
