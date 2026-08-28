@@ -73,7 +73,10 @@
 ###
 
 <div align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=SDragonex&theme=transparent&hide=forks,prs,prs_merged&show=issues_closed" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=SDragonex&theme=dark&hide=forks,prs,prs_merged&show=issues_closed" />
+  <br>
+  <img src="https://github-stats-extended.vercel.app/api?username=SDragonex&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SDragonex&layout=compact&langs_count=6&theme=dark"  />
 </div>
 
 
@@ -86,7 +89,3 @@
 </div>
 
 ###
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=SDragonex&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDragonex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
